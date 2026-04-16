@@ -13,7 +13,7 @@ public class Strings {
         System.out.println("The length is: " + len);
 
         //"charAt()" is used to print the character from the string placed at a specific position
-        System.out.println("The char is: " + name.charAt(4));
+        System.out.println("The char is: " + name.charAt(5));
 
         //
 
